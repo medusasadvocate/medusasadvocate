@@ -2,8 +2,7 @@
 - 👀 I’m interested in Web Development and Clean Code
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting and useful projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: I have two cats
 
 <!---
